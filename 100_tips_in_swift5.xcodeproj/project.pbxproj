@@ -1,0 +1,82 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		B5588023280D5F740000344B /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		B5588024280D5F740000344B /* 003_protocol中的mutating关键字.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "003_protocol中的mutating关键字.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B5588025280D5F740000344B /* 002_Struct_Mutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 002_Struct_Mutable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B5588026280D5F740000344B /* 001_currying.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001_currying.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B5588027280D5F740000344B /* 004_Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 004_Sequence.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		B558801C280D5F4F0000344B = {
+			isa = PBXGroup;
+			children = (
+				B5588026280D5F740000344B /* 001_currying.playground */,
+				B5588025280D5F740000344B /* 002_Struct_Mutable.playground */,
+				B5588024280D5F740000344B /* 003_protocol中的mutating关键字.playground */,
+				B5588027280D5F740000344B /* 004_Sequence.playground */,
+				B5588023280D5F740000344B /* README.md */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		B558801D280D5F4F0000344B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1330;
+			};
+			buildConfigurationList = B5588020280D5F4F0000344B /* Build configuration list for PBXProject "100_tips_in_swift5" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = B558801C280D5F4F0000344B;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		B5588021280D5F4F0000344B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		B5588022280D5F4F0000344B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		B5588020280D5F4F0000344B /* Build configuration list for PBXProject "100_tips_in_swift5" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5588021280D5F4F0000344B /* Debug */,
+				B5588022280D5F4F0000344B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B558801D280D5F4F0000344B /* Project object */;
+}
