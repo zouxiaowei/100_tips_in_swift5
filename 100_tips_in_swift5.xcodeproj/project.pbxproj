@@ -12,12 +12,14 @@
 		B5588025280D5F740000344B /* 002_Struct_Mutable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 002_Struct_Mutable.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B5588026280D5F740000344B /* 001_currying.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 001_currying.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B5588027280D5F740000344B /* 004_Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 004_Sequence.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B5875D95280FC88500E75952 /* 005_元组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "005_元组.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		B558801C280D5F4F0000344B = {
 			isa = PBXGroup;
 			children = (
+				B5875D95280FC88500E75952 /* 005_元组.playground */,
 				B5588026280D5F740000344B /* 001_currying.playground */,
 				B5588025280D5F740000344B /* 002_Struct_Mutable.playground */,
 				B5588024280D5F740000344B /* 003_protocol中的mutating关键字.playground */,

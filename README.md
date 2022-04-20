@@ -12,6 +12,4 @@
 
 ### 003_protocol中的mutating关键字 协议中的方法需要修改结构体变量值
 
-### 003_protocol中的mutating关键字 协议中的方法需要修改结构体变量值
-
 ### 004_Sequence 自定义可以用for in遍历的泛型数组
