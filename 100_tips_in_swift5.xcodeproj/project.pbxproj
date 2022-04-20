@@ -19,11 +19,11 @@
 		B558801C280D5F4F0000344B = {
 			isa = PBXGroup;
 			children = (
-				B5875D95280FC88500E75952 /* 005_元组.playground */,
 				B5588026280D5F740000344B /* 001_currying.playground */,
 				B5588025280D5F740000344B /* 002_Struct_Mutable.playground */,
 				B5588024280D5F740000344B /* 003_protocol中的mutating关键字.playground */,
 				B5588027280D5F740000344B /* 004_Sequence.playground */,
+				B5875D95280FC88500E75952 /* 005_元组.playground */,
 				B5588023280D5F740000344B /* README.md */,
 			);
 			sourceTree = "<group>";
