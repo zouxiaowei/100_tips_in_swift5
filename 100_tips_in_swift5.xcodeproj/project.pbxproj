@@ -14,6 +14,7 @@
 		B5588027280D5F740000344B /* 004_Sequence.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 004_Sequence.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B5875D95280FC88500E75952 /* 005_元组.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "005_元组.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		B5875D96280FD87200E75952 /* 006_AutoClosure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 006_AutoClosure.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		B5CAC41A28112A430059DC1B /* 007_Optional_Chain.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 007_Optional_Chain.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -26,6 +27,7 @@
 				B5588027280D5F740000344B /* 004_Sequence.playground */,
 				B5875D95280FC88500E75952 /* 005_元组.playground */,
 				B5875D96280FD87200E75952 /* 006_AutoClosure.playground */,
+				B5CAC41A28112A430059DC1B /* 007_Optional_Chain.playground */,
 				B5588023280D5F740000344B /* README.md */,
 			);
 			sourceTree = "<group>";
